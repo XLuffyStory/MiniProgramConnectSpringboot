@@ -1,0 +1,6 @@
+<!--pages/listperson/listperson.wxml-->
+<text>pages/listperson/listperson.wxml</text>
+
+<view>用户信息</view>
+<view>从SpringBoot中取到的用户名：{{name}}</view>
+<view>从SpringBoot中取到的密码： {{pwd}}</view>
